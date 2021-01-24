@@ -1,5 +1,4 @@
-1.add dev some text1;
-2.add dev some text2;(cherry-pick dev)
+ㄮ杩瑨畢짏뒴붨닖뿢ਲ⻎틊읤敶럖횧�
 2.create branch:dev from main
 3.creat branch:branch1 form dev(github)
 4.create branch:branch2 from branch1(github)
