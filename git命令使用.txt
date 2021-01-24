@@ -1,2 +1,3 @@
 ㄮ杩瑨畢짏뒴붨닖뿢ਲ⻎틊읤敶럖횧�
 3.creat branch:branch1 form dev(github)11
+4.create branch:branch2 from branch1(github)
